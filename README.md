@@ -30,6 +30,8 @@ ML-03 -> Crop Prediction
 
 ![image](https://user-images.githubusercontent.com/68073887/218293821-91fba446-a72c-4fdd-a810-c10c4a5fafc4.png)
 
+workflow -> https://docs.google.com/document/d/1p3TgbpGJOmyEnwPKG87Vmj5yg_qRGZBPw6ognJEYcy0/edit?usp=sharing
+
 
 <h1>Datasets</h1>
 Dataset Links: <br>
