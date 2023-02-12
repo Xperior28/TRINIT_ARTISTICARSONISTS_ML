@@ -28,6 +28,9 @@ ML-03 -> Crop Prediction
 - &nbsp; Segregate crops further according to season and soil type
 - &nbsp; Finally rank crops according to price and yield
 
+![image](https://user-images.githubusercontent.com/68073887/218293821-91fba446-a72c-4fdd-a810-c10c4a5fafc4.png)
+
+
 <h1>Datasets</h1>
 Dataset Links: <br>
 ● https://www.kaggle.com/datasets/rajanand/rainfall-in-india <br>
